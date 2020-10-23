@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('KarlosVideoArchivesFont.eot');
+    src: url('KarlosVideoArchivesFont.eot?#iefix') format('embedded-opentype'),
+        url('KarlosVideoArchivesFont.woff2') format('woff2'),
+        url('KarlosVideoArchivesFont.woff') format('woff'),
+        url('KarlosVideoArchivesFont.ttf') format('truetype'),
+        url('KarlosVideoArchivesFont.svg#Karlo\'sVideoArchivesFont') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
